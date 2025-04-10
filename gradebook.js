@@ -1,8 +1,8 @@
 function fetchGradeData() {
-  console.log("Fetching grade data...")
+  console.log("Fetching grade data...");
 }
 function populateGradebook(data) {
-  console.log("populate gradebook with data:", data);
+  console.log("Populating gradebook with data:", data);
 }
 const gradeData = fetchGradeData();
 populateGradebook(gradeData);
